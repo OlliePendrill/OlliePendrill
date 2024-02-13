@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OlliePendrill
-- 👀 I’m interested in ... none of your business.
-- 🌱 I’m currently learning ... none of your business.
-- 💞️ I’m looking to collaborate on ... nothing.
-- 📫 How to reach me ... don't.
+- 👀 I’m interested in ... programming.
+- 🌱 I’m currently learning ... Level 3 diploma in computing and IT.
+- 📫 How to reach me ... LinkedIn.
 
 <!---
 OlliePendrill/OlliePendrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
